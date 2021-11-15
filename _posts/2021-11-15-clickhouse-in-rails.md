@@ -118,6 +118,8 @@ use house_development_clickhouse;
 show tables;
 ```
 
+![useful image]({{ site.url }}/assets/images/2021/clickhouse_in_rails_01.png)
+
 We will find out the database and the table.
 
 ## Use ClickHouse in Rails Console
