@@ -13,8 +13,8 @@ ClickHouse is an open-source column-oriented DBMS (columnar database management 
 Let’s try to setup ClickHouse connection in Rails as a second database.
 
 ```
-Rails 6.1.4.1
-ruby 3.0.2p107
+Rails 6.1
+ruby 3.0.2
 ClickHouse version 21.12
 ```
 
@@ -139,7 +139,7 @@ Event.sum(:speed)
 Event.average(:speed)
 ```
 
-Read more:
+## Read more
 
 * [ClickHouse](https://clickhouse.com/docs/en/)
 * [Gem: Clickhouse Activerecord](https://github.com/PNixx/clickhouse-activerecord)
