@@ -39,10 +39,10 @@ social:
 #   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: devon
   email: devon.y@gmail.com             # change to your email address
-#   links:
-#     # The first element serves as the copyright owner's link
-#     - https://twitter.com/username      # change to your twitter homepage
-#     - https://github.com/username       # change to your github homepage
+  links:
+    # The first element serves as the copyright owner's link
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/devon       # change to your github homepage
 #     # Uncomment below to add more social links
 #     # - https://www.facebook.com/username
 #     # - https://www.linkedin.com/in/username
@@ -52,12 +52,11 @@ social:
 # ↑ --------------------------
 
 
-# google_analytics:
-#   id: ''              # fill in your Google Analytics ID
-#   # Google Analytics pageviews report settings
-#   pv:
-#     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-#     cache_path:       # the local PV cache data, friendly to visitors from GFW region
+google_analytics:
+  id: 'G-TZMP8T57QH' 
+  # pv:
+  #   proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+  #   cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #

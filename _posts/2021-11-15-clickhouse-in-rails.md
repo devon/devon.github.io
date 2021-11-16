@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ClickHouse in Rails"
-date:   2021-11-15 15:20:06 +0800
+date:   2021-11-15 15:20:06 -0500
 categories: [Rails]
 tags: [ruby, rails, database]
 ---
@@ -122,7 +122,7 @@ show tables;
 
 We will find out the database and the table.
 
-## Use ClickHouse in Rails Console
+## Use ClickHouse in Rails
 
 Let's try something fun with ClickHouse:
 
