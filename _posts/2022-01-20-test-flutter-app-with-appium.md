@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Flutter app with Appium"
-date:   2022-01-20 12:23:06 -0500
+date:   2022-01-19 12:23:06 -0500
 categories: [Flutter, Ruby]
 tags: [dart, flutter, ruby, test, appium]
 ---
